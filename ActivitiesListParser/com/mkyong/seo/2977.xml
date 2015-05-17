@@ -1,0 +1,4521 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE eighth [
+ <!ELEMENT eighth (body,error,debug)>
+ <!ELEMENT body (#PCDATA)>
+ <!ELEMENT error (#PCDATA)>
+ <!ELEMENT debug (#PCDATA)>
+]>
+<eighth>
+ <activities>
+  <activity>
+   <aid>657</aid>
+   <name>Q &amp;amp; A 2015-16 Bell Schedule</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>1</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>877</sid>
+     <fname>Evan</fname>
+     <lname>Glazer</lname>
+     <userid>59</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1805</rid>
+     <name>  to be determined (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>  to be determined (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>700</aid>
+   <name>Senior Prom Outfit Rental</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>1</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1126</sid>
+     <fname>Adam</fname>
+     <lname>Smith</lname>
+     <userid>496</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>686</rid>
+     <name>Gym 2 - alley side (50)</name>
+     <capacity>50</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment>Seniors only</comment>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>Gym 2 - alley side (50)</block_rooms_comma>
+   <capacity>50</capacity>
+  </activity>
+  <activity>
+   <aid>2494</aid>
+   <name>8th Period Detention</name>
+   <description>This is an 8th Period detention for students with attendance issues during eighth period.  If you have a question please see your administrator or Mrs. Burch in the 8th period office.</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>350</sid>
+     <fname>Brandon</fname>
+     <lname>Kosatka</lname>
+     <userid>152</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2078</rid>
+     <name>Cafeteria (new) (100)</name>
+     <capacity>100</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>Cafeteria (new) (100)</block_rooms_comma>
+   <capacity>100</capacity>
+  </activity>
+  <activity>
+   <aid>412</aid>
+   <name>8th Period Office</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1148</sid>
+     <fname>Joan</fname>
+     <lname>Burch</lname>
+     <userid>20</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1051</rid>
+     <name>   8th Office (room 231)</name>
+     <capacity>0</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>   8th Office (room 231)</block_rooms_comma>
+   <capacity>0</capacity>
+  </activity>
+  <activity>
+   <aid>3047</aid>
+   <name>2018 Class Council</name>
+   <description>All freshman welcome</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>846</sid>
+     <fname>Mike</fname>
+     <lname>Auerbach</lname>
+     <userid>3</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1694</rid>
+     <name>T 25</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment>Officers</comment>
+   <advertisement/>
+   <member_count>6</member_count>
+   <block_rooms_comma>T 25</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>1191</aid>
+   <name>AP Exam Makeup</name>
+   <description>No description available</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>867</sid>
+     <fname>Adam</fname>
+     <lname>Wong</lname>
+     <userid>406</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2060</rid>
+     <name>211 (Lab)</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>211 (Lab)</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>366</aid>
+   <name>Academic Language</name>
+   <description>Restricted to students nominated by a department chair</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1154</sid>
+     <fname>Stephanie</fname>
+     <lname>Glotfelty</lname>
+     <userid>23</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1737</rid>
+     <name>T 35 (1)</name>
+     <capacity>1</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>T 35 (1)</block_rooms_comma>
+   <capacity>1</capacity>
+  </activity>
+  <activity>
+   <aid>804</aid>
+   <name>Amateur Radio Club</name>
+   <description> Amateur (Ham) Radio assists members of the TJ community earn an FCC license.  We communicate with others around the world and learn about maintenance, radio propagation, solar cells and encoding schemes.
+</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>120</sid>
+     <fname>Lisa</fname>
+     <lname>Wu</lname>
+     <userid>160</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>986</rid>
+     <name> 2 Ocean Lab (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>4</member_count>
+   <block_rooms_comma> 2 Ocean Lab (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>1032</aid>
+   <name>American Sign Language Club</name>
+   <description>American Sign Language </description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>111</sid>
+     <fname>John</fname>
+     <lname>Struck</lname>
+     <userid>149</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1839</rid>
+     <name>Weyanoke G</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>19</member_count>
+   <block_rooms_comma>Weyanoke G</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>514</aid>
+   <name>Art Club</name>
+   <description>Learn how to draw or just make beautiful art!  Supplies are provided.
+</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1017</sid>
+     <fname>Tom</fname>
+     <lname>McNichol</lname>
+     <userid>109</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1867</rid>
+     <name>134</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>16</member_count>
+   <block_rooms_comma>134</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>373</aid>
+   <name>Art Honor Society</name>
+   <description>see Mr. Davis for membership requirements</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1119</sid>
+     <fname>Tim</fname>
+     <lname>Davis</lname>
+     <userid>130</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1867</rid>
+     <name>134</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>134</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>185</aid>
+   <name>Assistive Technology Club</name>
+   <description>Students use a variety of technology resources to design adaptive materials for  use by FCPS elementary school Special Ed teachers.  The goal is to learn and use new software to help build an individualized library collection for children.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1167</sid>
+     <fname>Marty</fname>
+     <lname>Dubin</lname>
+     <userid>493</userid>
+    </sponsor>
+    <sponsor>
+     <sid>1215</sid>
+     <fname>Marilyn</fname>
+     <lname>Levine</lname>
+     <userid>498</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1851</rid>
+     <name>Weyanoke M Lab</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>Weyanoke M Lab</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>808</aid>
+   <name>Astronomy Club</name>
+   <description>Learn about the stars and recent astronomy news. Explore constellations in the night sky.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>1</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>57</sid>
+     <fname>Lee Ann</fname>
+     <lname>Hennig</lname>
+     <userid>70</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>130</rid>
+     <name>Planetarium (40)</name>
+     <capacity>40</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>37</member_count>
+   <block_rooms_comma>Planetarium (40)</block_rooms_comma>
+   <capacity>40</capacity>
+  </activity>
+  <activity>
+   <aid>3046</aid>
+   <name>Athletic Injury Clinic: Concussion Group</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1101</sid>
+     <fname>Heather</fname>
+     <lname>Murphy</lname>
+     <userid>423</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>145</rid>
+     <name>Training Room (10)</name>
+     <capacity>10</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>Training Room (10)</block_rooms_comma>
+   <capacity>10</capacity>
+  </activity>
+  <activity>
+   <aid>59</aid>
+   <name>Awesome Association</name>
+   <description>Come watch great movies!  Movies start A block and continue through B.</description>
+   <restricted>0</restricted>
+   <presign>1</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>112</sid>
+     <fname>Mike</fname>
+     <lname>Stueben</lname>
+     <userid>150</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1148</rid>
+     <name>T  6</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>T  6</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>781</aid>
+   <name>Band</name>
+   <description>No description available</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1121</sid>
+     <fname>Adam</fname>
+     <lname>Foreman</lname>
+     <userid>143</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1961</rid>
+     <name>Band Room (75)</name>
+     <capacity>75</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment>SWE Rehearsal</comment>
+   <advertisement/>
+   <member_count>27</member_count>
+   <block_rooms_comma>Band Room (75)</block_rooms_comma>
+   <capacity>75</capacity>
+  </activity>
+  <activity>
+   <aid>1006</aid>
+   <name>Biology (AP) Make-up/Tutoring(Del Cerro)</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1061</sid>
+     <fname>Sonia</fname>
+     <lname>Del Cerro</lname>
+     <userid>4</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1379</rid>
+     <name>135 (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>135 (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>2555</aid>
+   <name>Biology (Rosenblum only)</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>863</sid>
+     <fname>Jennifer</fname>
+     <lname>Rosenblum</lname>
+     <userid>125</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>37</rid>
+     <name>136 (25)</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>10</member_count>
+   <block_rooms_comma>136 (25)</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>456</aid>
+   <name>Bren Mar Park Tutors</name>
+   <description>tutor elementary school students at their school and return to TJ for B block</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1006</sid>
+     <fname>Rebecca</fname>
+     <lname>Schgallis</lname>
+     <userid>97</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>144</rid>
+     <name>  Out of Building</name>
+     <capacity>130</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>8</member_count>
+   <block_rooms_comma>  Out of Building</block_rooms_comma>
+   <capacity>130</capacity>
+  </activity>
+  <activity>
+   <aid>245</aid>
+   <name>Calculus (BC)  tutoring</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1066</sid>
+     <fname>Marianne</fname>
+     <lname>Razzino</lname>
+     <userid>17</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1501</rid>
+     <name>T 22</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>T 22</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>198</aid>
+   <name>Changemakers</name>
+   <description>Explores social entrepeneurship and helps students develop the skills to create business plans, marketing, budgeting and public speaking. Students with or without experience are welcome.
+</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>310</sid>
+     <fname>Emily</fname>
+     <lname>Orser</lname>
+     <userid>113</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1888</rid>
+     <name>Weyanoke R</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>Weyanoke R</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>158</aid>
+   <name>Chem.Tutoring/Makeups (Jones)</name>
+   <description>Jones Chem students only</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>409</sid>
+     <fname>Ashley</fname>
+     <lname>Jones</lname>
+     <userid>77</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>728</rid>
+     <name>54 (20)</name>
+     <capacity>20</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>5</member_count>
+   <block_rooms_comma>54 (20)</block_rooms_comma>
+   <capacity>20</capacity>
+  </activity>
+  <activity>
+   <aid>669</aid>
+   <name>Chemistry Consults (Taylor student ONLY)</name>
+   <description>  </description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1096</sid>
+     <fname>Robin</fname>
+     <lname>Taylor</lname>
+     <userid>476</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>47</rid>
+     <name>52 </name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>52 </block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>184</aid>
+   <name>Chemistry Team</name>
+   <description>Explore chemistry concepts through lessons, lab demos and prepare for Chem-athon and Chemistry Olympiad competitions.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>7</sid>
+     <fname>Omar</fname>
+     <lname>Acio</lname>
+     <userid>1</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1097</rid>
+     <name>141 (40)</name>
+     <capacity>40</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment>Avogadro Exam</comment>
+   <advertisement/>
+   <member_count>12</member_count>
+   <block_rooms_comma>141 (40)</block_rooms_comma>
+   <capacity>40</capacity>
+  </activity>
+  <activity>
+   <aid>2537</aid>
+   <name>Chinese tutoring</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>492</sid>
+     <fname>Maggie</fname>
+     <lname>Xu</lname>
+     <userid>392</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1897</rid>
+     <name>T 43</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>T 43</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>970</aid>
+   <name>Choir</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1261</sid>
+     <fname>Jennifer</fname>
+     <lname>Lowery</lname>
+     <userid>485</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1254</rid>
+     <name>M - 4 (35)</name>
+     <capacity>35</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>M - 4 (35)</block_rooms_comma>
+   <capacity>35</capacity>
+  </activity>
+  <activity>
+   <aid>32</aid>
+   <name>Codi's Hats</name>
+   <description>Make hats to send to children with cancer to brighten their day and their wardrobe!</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1147</sid>
+     <fname>Richard</fname>
+     <lname>Monteverde</lname>
+     <userid>31</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1500</rid>
+     <name>T  7</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>6</member_count>
+   <block_rooms_comma>T  7</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>866</aid>
+   <name>Coding Lady Colonials</name>
+   <description>men welcome</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1191</sid>
+     <fname>Ria</fname>
+     <lname>Galanos</lname>
+     <userid>26</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1909</rid>
+     <name>T 19 &amp; T 20</name>
+     <capacity>50</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>8</member_count>
+   <block_rooms_comma>T 19 &amp;amp; T 20</block_rooms_comma>
+   <capacity>50</capacity>
+  </activity>
+  <activity>
+   <aid>458</aid>
+   <name>Columbia Elem. School Tutors</name>
+   <description>Tutor elementary school students at their school-Please request to leave at 2:00 from 7th period.  Meet in the area designated by Mr. Miller.  Return to TJ for B block</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>858</sid>
+     <fname>Mike</fname>
+     <lname>Miller</lname>
+     <userid>102</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>144</rid>
+     <name>  Out of Building</name>
+     <capacity>130</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>  Out of Building</block_rooms_comma>
+   <capacity>130</capacity>
+  </activity>
+  <activity>
+   <aid>2934</aid>
+   <name>Computer Security</name>
+   <description>Explores aspects of both offensive and defensive hacking. Enter computer security competitions.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1123</sid>
+     <fname>Andrew</fname>
+     <lname>Hamilton</lname>
+     <userid>489</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1604</rid>
+     <name>200 Sys Lab (40)</name>
+     <capacity>40</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>7</member_count>
+   <block_rooms_comma>200 Sys Lab (40)</block_rooms_comma>
+   <capacity>40</capacity>
+   <favorite>1</favorite>
+  </activity>
+  <activity>
+   <aid>13</aid>
+   <name>Computer Tech Assistants</name>
+   <description>Interested in helping with technology maintenance at TJ and learning the craft of a technology specialist?  Sign up for Computer Tech Assistants where you can collect service hours and learn new skills on set up and maintenance of projectors, computers, laptops, network drops, and printers.  No tech experience required, just come willing to learn.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1217</sid>
+     <fname>Bryan</fname>
+     <lname>Phillips</lname>
+     <userid>210</userid>
+    </sponsor>
+    <sponsor>
+     <sid>996</sid>
+     <fname>Pete</fname>
+     <lname>Morasca</lname>
+     <userid>112</userid>
+    </sponsor>
+    <sponsor>
+     <sid>1202</sid>
+     <fname>Miruna</fname>
+     <lname>Tecuci</lname>
+     <userid>90</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1953</rid>
+     <name>14 (15)</name>
+     <capacity>15</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>14 (15)</block_rooms_comma>
+   <capacity>15</capacity>
+  </activity>
+  <activity>
+   <aid>49</aid>
+   <name>Conference @Student Services</name>
+   <description>Sign in with Mrs. Moore in student services</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>189</sid>
+     <fname>Lisa</fname>
+     <lname>Moore</lname>
+     <userid>174</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1858</rid>
+     <name>Student Services (20)</name>
+     <capacity>20</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>Student Services (20)</block_rooms_comma>
+   <capacity>20</capacity>
+  </activity>
+  <activity>
+   <aid>72</aid>
+   <name>Consulting Club</name>
+   <description>Jefferson Consulting provides real life problem solving for the school and local community. </description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>306</sid>
+     <fname>Duncan</fname>
+     <lname>Forbes</lname>
+     <userid>51</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>5</rid>
+     <name>232A </name>
+     <capacity>29</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>232A </block_rooms_comma>
+   <capacity>29</capacity>
+  </activity>
+  <activity>
+   <aid>2707</aid>
+   <name>Debate: Public Forum</name>
+   <description>Public Forum Debaters argue topics of current events and public policies.  Members compete in local and national tournaments.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>124</sid>
+     <fname>Jennifer</fname>
+     <lname>Seavey</lname>
+     <userid>136</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1701</rid>
+     <name>T 36</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>7</member_count>
+   <block_rooms_comma>T 36</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>402</aid>
+   <name>Design &amp;amp; Tech  Tutoring/Makeups (LaFever)</name>
+   <description>La Fever students only</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>67</sid>
+     <fname>John</fname>
+     <lname>LaFever</lname>
+     <userid>84</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>56</rid>
+     <name>148 (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>30</member_count>
+   <block_rooms_comma>148 (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>278</aid>
+   <name>Dot Comedy</name>
+   <description>Sketch comedy club where students write, film and perform in short comedic films</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1189</sid>
+     <fname>Jill</fname>
+     <lname>Zupancic</lname>
+     <userid>62</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1840</rid>
+     <name>Weyanoke K</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>Weyanoke K</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>286</aid>
+   <name>Drama</name>
+   <description>No description available</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1261</sid>
+     <fname>Jennifer</fname>
+     <lname>Lowery</lname>
+     <userid>485</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>73</rid>
+     <name>M - 8</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>M - 8</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>320</aid>
+   <name>Environmental Science Club</name>
+   <description>Identify and spread awareness of environmental problems in our community. We use problem solving skills to find and execute innovative solutions to such problems.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>854</sid>
+     <fname>Hadan</fname>
+     <lname>Kauffman</lname>
+     <userid>76</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>448</rid>
+     <name>53 (40)</name>
+     <capacity>40</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>5</member_count>
+   <block_rooms_comma>53 (40)</block_rooms_comma>
+   <capacity>40</capacity>
+  </activity>
+  <activity>
+   <aid>887</aid>
+   <name>Excelsior-Aerospace  Club</name>
+   <description>Excelsior aims to bring aerospace applications to TJ. We build UAVs, rockets, balloon systems, space systems and compete in various aerospace competitions. </description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>482</sid>
+     <fname>Adam</fname>
+     <lname>Kemp</lname>
+     <userid>78</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1083</rid>
+     <name> 9 Energy Lab (25)</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>5</member_count>
+   <block_rooms_comma> 9 Energy Lab (25)</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>827</aid>
+   <name>FBLA-Future Business Leaders of America</name>
+   <description>Club brings business and education together in a positive working relationship through innovative leadership and career development programs.Restricted to members</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>314</sid>
+     <fname>Sherwood</fname>
+     <lname>Williams</lname>
+     <userid>163</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2041</rid>
+     <name>Commons: Tesla (60)(Geo 2nd floor)</name>
+     <capacity>60</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>18</member_count>
+   <block_rooms_comma>Commons: Tesla (60)(Geo 2nd floor)</block_rooms_comma>
+   <capacity>60</capacity>
+  </activity>
+  <activity>
+   <aid>824</aid>
+   <name>FCA</name>
+   <description>FCA provides a place for fun, games, food, worship, Bible study and prayer.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>477</sid>
+     <fname>Maryann</fname>
+     <lname>Donohue</lname>
+     <userid>39</userid>
+    </sponsor>
+    <sponsor>
+     <sid>107</sid>
+     <fname>Myra</fname>
+     <lname>Spoden</lname>
+     <userid>144</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1722</rid>
+     <name>T 26</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>T 26</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>492</aid>
+   <name>Football Strategy/Film Study</name>
+   <description>Learn the strategy of the game and watch college and NFL teams to increase your knowledge of the game</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>29</sid>
+     <fname>Sandra</fname>
+     <lname>Chhabra</lname>
+     <userid>27</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>728</rid>
+     <name>54 (20)</name>
+     <capacity>20</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>6</member_count>
+   <block_rooms_comma>54 (20)</block_rooms_comma>
+   <capacity>20</capacity>
+  </activity>
+  <activity>
+   <aid>302</aid>
+   <name>French Honor Society</name>
+   <description>To provide opportunities for students to enrich their knowledge and appreciation of the French language and culture.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>37</sid>
+     <fname>Genevieve</fname>
+     <lname>Delfosse</lname>
+     <userid>34</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2021</rid>
+     <name>Commons: Einstein (35)(Chem 1st floor)</name>
+     <capacity>35</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment>Induction set up</comment>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>Commons: Einstein (35)(Chem 1st floor)</block_rooms_comma>
+   <capacity>35</capacity>
+  </activity>
+  <activity>
+   <aid>465</aid>
+   <name>GSA </name>
+   <description>Gay-Straight Alliance GSA) is a student-run club,which provides a safe place for students to meet, support each other, talk about issues related to sexual orientation and gender identity and expression, and work to end homophobia and transphobia.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1223</sid>
+     <fname>Phil</fname>
+     <lname>Ero</lname>
+     <userid>13</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1932</rid>
+     <name>T 24 (32)</name>
+     <capacity>32</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>14</member_count>
+   <block_rooms_comma>T 24 (32)</block_rooms_comma>
+   <capacity>32</capacity>
+  </activity>
+  <activity>
+   <aid>169</aid>
+   <name>Geosystems Tutoring/Make-up (Woodwell)</name>
+   <description>makeup for Woodwell students</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1027</sid>
+     <fname>John</fname>
+     <lname>Woodwell</lname>
+     <userid>376</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1263</rid>
+     <name>249 (10)</name>
+     <capacity>10</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>249 (10)</block_rooms_comma>
+   <capacity>10</capacity>
+  </activity>
+  <activity>
+   <aid>686</aid>
+   <name>German Honor Society</name>
+   <description>Purpose is to recognize the high scholastic attainment in the study of German &amp;amp; to promote interest in the study of the German language, literature &amp;amp; culture.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1158</sid>
+     <fname>Szilvia</fname>
+     <lname>Oszko</lname>
+     <userid>49</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1895</rid>
+     <name>T 41</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>5</member_count>
+   <block_rooms_comma>T 41</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>779</aid>
+   <name>German tutoring</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1158</sid>
+     <fname>Szilvia</fname>
+     <lname>Oszko</lname>
+     <userid>49</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1895</rid>
+     <name>T 41</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>T 41</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>835</aid>
+   <name>Go Club</name>
+   <description>Purpose: To learn about and play the game of Go, perhaps the oldest game in the world.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1188</sid>
+     <fname>Monte</fname>
+     <lname>Bourjaily</lname>
+     <userid>10</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1830</rid>
+     <name>Weyanoke L</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>Weyanoke L</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>3045</aid>
+   <name>History &amp;amp; Social Studies Makeup (Grzelkowski)</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1255</sid>
+     <fname>Brian</fname>
+     <lname>Grzelkowski</lname>
+     <userid>101</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1831</rid>
+     <name>Weyanoke I (eye)</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>Weyanoke I (eye)</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>2986</aid>
+   <name>Holmes MS RUSSIAN Tutoring</name>
+   <description>Tutoring students in Russian at Holmes Middle School-permission required</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>98</sid>
+     <fname>Betsy</fname>
+     <lname>Sandstrom</lname>
+     <userid>132</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>144</rid>
+     <name>  Out of Building</name>
+     <capacity>130</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>  Out of Building</block_rooms_comma>
+   <capacity>130</capacity>
+  </activity>
+  <activity>
+   <aid>1003</aid>
+   <name>Holmes MS Tutoring</name>
+   <description>work with students on Mathcounts</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1194</sid>
+     <fname>Mary Beth</fname>
+     <lname>Kochman</lname>
+     <userid>79</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>144</rid>
+     <name>  Out of Building</name>
+     <capacity>130</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>6</member_count>
+   <block_rooms_comma>  Out of Building</block_rooms_comma>
+   <capacity>130</capacity>
+  </activity>
+  <activity>
+   <aid>405</aid>
+   <name>Humanitarian Aid to No. Korea</name>
+   <description>Raise awareness about Humanitarian need in North Korea</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1201</sid>
+     <fname>Helen</fname>
+     <lname>Yi</lname>
+     <userid>65</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2096</rid>
+     <name>T 34 (15) </name>
+     <capacity>15</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>T 34 (15) </block_rooms_comma>
+   <capacity>15</capacity>
+  </activity>
+  <activity>
+   <aid>2131</aid>
+   <name>IBET Project Work - Lewis only</name>
+   <description>A or B, not both</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>1</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1013</sid>
+     <fname>Craig</fname>
+     <lname>Lewis</lname>
+     <userid>72</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>54</rid>
+     <name>146 (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>30</member_count>
+   <block_rooms_comma>146 (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>157</aid>
+   <name>IBET Study Hall (Holman students ONLY) </name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1192</sid>
+     <fname>Aubrie</fname>
+     <lname>Holman</lname>
+     <userid>68</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1010</rid>
+     <name>133 (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>9</member_count>
+   <block_rooms_comma>133 (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>95</aid>
+   <name>IGEMs (Synthetic Biology Society)</name>
+   <description>Synthetic biology is the design and construction of biological devices and systems for useful purposes (wikipedia). The club's purpose is to promote student interests in synthetic biology and develop a genetically modified device for competition at MIT.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>855</sid>
+     <fname>Kate</fname>
+     <lname>Lewis</lname>
+     <userid>92</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1292</rid>
+     <name>124 (26)</name>
+     <capacity>26</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>124 (26)</block_rooms_comma>
+   <capacity>26</capacity>
+  </activity>
+  <activity>
+   <aid>107</aid>
+   <name>JUMP (Jefferson Underclassmen Multidisciplinary Project lab)</name>
+   <description>Looking for an opportunity to pursue a topic in science you are passionate about? Interested in learning about cutting edge techniques and keeping up with the latest scientific news? Come to this informational session, where we will discuss the format and content of JUMP.</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1239</sid>
+     <fname>Dan</fname>
+     <lname>Burden</lname>
+     <userid>64</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1955</rid>
+     <name> 6 Underclass Lab (25)</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma> 6 Underclass Lab (25)</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>730</aid>
+   <name>Jewish Culture Club</name>
+   <description>JCC purpose is to give Jewish students at TJ a place to celebrate &amp;amp; learn about their culture and traditions.  Members discuss issues facing Jewish students, occasionally have guest speakers, &amp;amp; always have food!  A few times a year we have large scale social events, such as Hanukkah and Purim parties.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1222</sid>
+     <fname>Rob</fname>
+     <lname>Culbertson</lname>
+     <userid>57</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1000</rid>
+     <name>251 (25)</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>251 (25)</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>103</aid>
+   <name>Lab 3: Chemical Analysis</name>
+   <description>Senior research lab</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors/>
+   <block_rooms/>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma/>
+   <capacity>-1</capacity>
+  </activity>
+  <activity>
+   <aid>101</aid>
+   <name>Lab 7: Optics Sr Research</name>
+   <description>open to Senior research and junior optics students only</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>38</sid>
+     <fname>John</fname>
+     <lname>Dell</lname>
+     <userid>30</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2037</rid>
+     <name> 7 Optics Lab (10)</name>
+     <capacity>10</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma> 7 Optics Lab (10)</block_rooms_comma>
+   <capacity>10</capacity>
+  </activity>
+  <activity>
+   <aid>117</aid>
+   <name>Lab 8: Prototyping Lab</name>
+   <description>Senior research lab</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>847</sid>
+     <fname>Clint</fname>
+     <lname>Behling</lname>
+     <userid>8</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1465</rid>
+     <name> 8 Proto Lab (25)</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma> 8 Proto Lab (25)</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>115</aid>
+   <name>Lab 200 -Computer Systems </name>
+   <description>Research lab restricted to Gabor/Stueben/Torbert students </description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1122</sid>
+     <fname>Peter</fname>
+     <lname>Gabor</lname>
+     <userid>88</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1554</rid>
+     <name>200 Sys Lab (20)</name>
+     <capacity>20</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>9</member_count>
+   <block_rooms_comma>200 Sys Lab (20)</block_rooms_comma>
+   <capacity>20</capacity>
+  </activity>
+  <activity>
+   <aid>478</aid>
+   <name>Lab 201 Biotech Research</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1064</sid>
+     <fname>Andrea</fname>
+     <lname>Cobb</lname>
+     <userid>86</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>722</rid>
+     <name>201 Biotech Lab (20)</name>
+     <capacity>20</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>201 Biotech Lab (20)</block_rooms_comma>
+   <capacity>20</capacity>
+  </activity>
+  <activity>
+   <aid>111</aid>
+   <name>Lab 202 - Web/Mobile Lab Make-ups</name>
+   <description>Web/Mobile lab electives and senior research</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1009</sid>
+     <fname>Paul</fname>
+     <lname>Kosek</lname>
+     <userid>67</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1434</rid>
+     <name>202 App Dev Lab (25)</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>202 App Dev Lab (25)</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>113</aid>
+   <name>Lab 203: Burnett Makeups</name>
+   <description>Senior research lab- project work/study hall</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1190</sid>
+     <fname>Mary Susan</fname>
+     <lname>Burnett</lname>
+     <userid>6</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1797</rid>
+     <name>203 DNA Lab (25)</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>203 DNA Lab (25)</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>118</aid>
+   <name>Lab 208 - Electronics Sr Research</name>
+   <description>For students taking electronics electives or doing senior research</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>15</sid>
+     <fname>Dave</fname>
+     <lname>Bell</lname>
+     <userid>14</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1956</rid>
+     <name>208 Elec Lab (24)</name>
+     <capacity>24</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>6</member_count>
+   <block_rooms_comma>208 Elec Lab (24)</block_rooms_comma>
+   <capacity>24</capacity>
+  </activity>
+  <activity>
+   <aid>231</aid>
+   <name>Lab T23 (all CS students )</name>
+   <description>for AP Computer Science students</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>475</sid>
+     <fname>Marion</fname>
+     <lname>Billington</lname>
+     <userid>15</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1734</rid>
+     <name>T 23 Lab</name>
+     <capacity>29</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>7</member_count>
+   <block_rooms_comma>T 23 Lab</block_rooms_comma>
+   <capacity>29</capacity>
+  </activity>
+  <activity>
+   <aid>261</aid>
+   <name>Lab T27 (all CS students)</name>
+   <description>limited to CS students</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1266</sid>
+     <fname>Thomas</fname>
+     <lname>Rudwick</lname>
+     <userid>95</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1721</rid>
+     <name>T 27 M/CS Lab</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>9</member_count>
+   <block_rooms_comma>T 27 M/CS Lab</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>280</aid>
+   <name>Lab T31 - Open Computer Lab</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>1</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>97</sid>
+     <fname>Steve</fname>
+     <lname>Rose</lname>
+     <userid>128</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1726</rid>
+     <name>T 31 Math/CS Lab</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>T 31 Math/CS Lab</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>378</aid>
+   <name>Latin Convention Meeting </name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>242</sid>
+     <fname>Christine</fname>
+     <lname>Conklin</lname>
+     <userid>223</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1892</rid>
+     <name>T 38 </name>
+     <capacity>32</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment>NJCL</comment>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>T 38 </block_rooms_comma>
+   <capacity>32</capacity>
+  </activity>
+  <activity>
+   <aid>333</aid>
+   <name>Latin Tutoring/Makeup (Lister)</name>
+   <description>No description available</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1015</sid>
+     <fname>Patty</fname>
+     <lname>Lister</lname>
+     <userid>451</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1891</rid>
+     <name>T 37</name>
+     <capacity>32</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>T 37</block_rooms_comma>
+   <capacity>32</capacity>
+  </activity>
+  <activity>
+   <aid>851</aid>
+   <name>Library Computer Classroom</name>
+   <description>Rooms 242 A and B. Check in at 242A. You may not leave to go to the main library across the hall</description>
+   <restricted>0</restricted>
+   <presign>1</presign>
+   <oneaday>1</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1150</sid>
+     <fname>Anne</fname>
+     <lname>Applin</lname>
+     <userid>44</userid>
+    </sponsor>
+    <sponsor>
+     <sid>1211</sid>
+     <fname>Cindy</fname>
+     <lname>Powell</lname>
+     <userid>1004</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1948</rid>
+     <name>Library-On-Line Rm 242B (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>Library-On-Line Rm 242B (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>241</aid>
+   <name>Math/CS Makeup</name>
+   <description>No description available</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1267</sid>
+     <fname>Karilee</fname>
+     <lname>Schmitt</lname>
+     <userid>11</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>931</rid>
+     <name>T 21</name>
+     <capacity>32</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>4</member_count>
+   <block_rooms_comma>T 21</block_rooms_comma>
+   <capacity>32</capacity>
+  </activity>
+  <activity>
+   <aid>262</aid>
+   <name>Math 3 (Stickler)</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1128</sid>
+     <fname>Shawn</fname>
+     <lname>Stickler</lname>
+     <userid>494</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1725</rid>
+     <name>T 30</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>T 30</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>200</aid>
+   <name>Math Teams (V &amp;amp; JV)</name>
+   <description>Purpose is to provide mathematical challenges for problem-solvers, to participate in national math competitions, &amp;amp; to continue our nationally renown tradition of excellence in mathematics. Also hosts two annual competitions at TJ in order to promote interest in mathematics in our community.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1152</sid>
+     <fname>Margaret</fname>
+     <lname>Coffey</lname>
+     <userid>12</userid>
+    </sponsor>
+    <sponsor>
+     <sid>1259</sid>
+     <fname>Amy</fname>
+     <lname>Lampazzi</lname>
+     <userid>58</userid>
+    </sponsor>
+    <sponsor>
+     <sid>1257</sid>
+     <fname>Isaac</fname>
+     <lname>Carey</lname>
+     <userid>47</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1906</rid>
+     <name>T  9,10, 12</name>
+     <capacity>100</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>31</member_count>
+   <block_rooms_comma>T  9,10, 12</block_rooms_comma>
+   <capacity>100</capacity>
+  </activity>
+  <activity>
+   <aid>850</aid>
+   <name>Medical Society</name>
+   <description>This club discusses pertinent topics related to the medical field.  Guest speakers are invited.  Sign ups will be allowed no sooner than 48 hours in advance due to the popularity of this club.</description>
+   <restricted>0</restricted>
+   <presign>1</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1196</sid>
+     <fname>Thom</fname>
+     <lname>Larson</lname>
+     <userid>46</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1916</rid>
+     <name>Commons: Galileo (50)(1st floor front hall)</name>
+     <capacity>50</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>Commons: Galileo (50)(1st floor front hall)</block_rooms_comma>
+   <capacity>50</capacity>
+  </activity>
+  <activity>
+   <aid>1159</aid>
+   <name>Meeting with teacher II</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>4</sid>
+     <fname/>
+     <lname> To Be Assigned</lname>
+     <userid>7004</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1847</rid>
+     <name>  to be determined (5)</name>
+     <capacity>5</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>  to be determined (5)</block_rooms_comma>
+   <capacity>5</capacity>
+  </activity>
+  <activity>
+   <aid>639</aid>
+   <name>Mentorship  - Second Semester</name>
+   <description>No description available</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1256</sid>
+     <fname>Bruce</fname>
+     <lname>Averill</lname>
+     <userid>1013</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>144</rid>
+     <name>  Out of Building</name>
+     <capacity>130</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>4</member_count>
+   <block_rooms_comma>  Out of Building</block_rooms_comma>
+   <capacity>130</capacity>
+  </activity>
+  <activity>
+   <aid>446</aid>
+   <name>Model UN - Officers only</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>484</sid>
+     <fname>Alex</fname>
+     <lname>Pou</lname>
+     <userid>124</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1201</rid>
+     <name>T 16 </name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment>Officers</comment>
+   <advertisement/>
+   <member_count>4</member_count>
+   <block_rooms_comma>T 16 </block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>2480</aid>
+   <name>Multivar/Linear Algebra/AMT</name>
+   <description>Multivariable Calculus (fall)
+Linear Algebra (spring)Elements of Differential Equations, Math Techniques,Matrix Algebra</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>860</sid>
+     <fname>Jonathan</fname>
+     <lname>Osborne</lname>
+     <userid>116</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1729</rid>
+     <name>T 32</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>5</member_count>
+   <block_rooms_comma>T 32</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>55</aid>
+   <name>Neuroscience (Spring)</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1124</sid>
+     <fname>Mark</fname>
+     <lname>Hannum</lname>
+     <userid>453</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1480</rid>
+     <name> 5 Neuro Lab (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>16</member_count>
+   <block_rooms_comma> 5 Neuro Lab (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>365</aid>
+   <name>Open Music Practice-Strings Only</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>197</sid>
+     <fname>Allison</fname>
+     <lname>Bailey</lname>
+     <userid>5</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1256</rid>
+     <name>M - 4 (20)</name>
+     <capacity>20</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>M - 4 (20)</block_rooms_comma>
+   <capacity>20</capacity>
+  </activity>
+  <activity>
+   <aid>421</aid>
+   <name>PC (re)Builders</name>
+   <description>A place where students can learn how to build computers, repair broken systems or help with donating refurbished systems to underprivileged families.  </description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>159</sid>
+     <fname>David</fname>
+     <lname>Zack</lname>
+     <userid>162</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1812</rid>
+     <name>Weyanoke A</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>9</member_count>
+   <block_rooms_comma>Weyanoke A</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>505</aid>
+   <name>Peer Core Unites</name>
+   <description>Students will learn how to mentor elementary/middle school students in academics, arts, leadership etc.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1254</sid>
+     <fname>Nancy</fname>
+     <lname>Glover</lname>
+     <userid>104</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1842</rid>
+     <name>Weyanoke P</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>6</member_count>
+   <block_rooms_comma>Weyanoke P</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>2696</aid>
+   <name>Physics Tutoring/Makeups (Smith)</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>170</sid>
+     <fname/>
+     <lname> CANCELLED</lname>
+     <userid>7004</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms/>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>1</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma/>
+   <capacity>-1</capacity>
+  </activity>
+  <activity>
+   <aid>109</aid>
+   <name>Physics tutoring/makeup (Walker)</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>117</sid>
+     <fname>Mike</fname>
+     <lname>Walker</lname>
+     <userid>154</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>6</rid>
+     <name>232B</name>
+     <capacity>29</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>232B</block_rooms_comma>
+   <capacity>29</capacity>
+  </activity>
+  <activity>
+   <aid>229</aid>
+   <name>Pre-Calc  (Gabor)</name>
+   <description>limited to gabor pre calc students</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1122</sid>
+     <fname>Peter</fname>
+     <lname>Gabor</lname>
+     <userid>88</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2022</rid>
+     <name>200c Sys Lab (10)</name>
+     <capacity>10</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>200c Sys Lab (10)</block_rooms_comma>
+   <capacity>10</capacity>
+  </activity>
+  <activity>
+   <aid>213</aid>
+   <name>Pre-Calc Tutoring/SH  (McConnaughey)</name>
+   <description>No description available</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1065</sid>
+     <fname>Laura</fname>
+     <lname>McConnaughey</lname>
+     <userid>108</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1724</rid>
+     <name>T 29</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>6</member_count>
+   <block_rooms_comma>T 29</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>3040</aid>
+   <name>Product Design Club</name>
+   <description>Ever wanted to design something on your own? This club focuses on teaching you the process and tools used in creating products on a professional scale--3D printing, CAD tools &amp;amp; other design processes.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1009</sid>
+     <fname>Paul</fname>
+     <lname>Kosek</lname>
+     <userid>67</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>59</rid>
+     <name>202 App Dev Lab (28)</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>202 App Dev Lab (28)</block_rooms_comma>
+   <capacity>28</capacity>
+   <favorite>1</favorite>
+  </activity>
+  <activity>
+   <aid>1077</aid>
+   <name>Relay For Life Committee</name>
+   <description>This club is designed to celebrate cancer survivorship and raise money for research and programs of the American Cancer Society</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1193</sid>
+     <fname>Lona</fname>
+     <lname>Klein</lname>
+     <userid>69</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1828</rid>
+     <name>T  2</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>14</member_count>
+   <block_rooms_comma>T  2</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>981</aid>
+   <name>SGA</name>
+   <description>Student government.All blocks are open to the entire school</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>853</sid>
+     <fname>Amanda</fname>
+     <lname>Hurowitz</lname>
+     <userid>305</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>863</rid>
+     <name>T  5 </name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>T  5 </block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>919</aid>
+   <name>SOL Testing</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>867</sid>
+     <fname>Adam</fname>
+     <lname>Wong</lname>
+     <userid>406</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2030</rid>
+     <name>Black Box Theatre</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>Black Box Theatre</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>928</aid>
+   <name>SOL Test  review</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1212</sid>
+     <fname>Mark</fname>
+     <lname>Forgash</lname>
+     <userid>94</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1805</rid>
+     <name>  to be determined (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment>USVA SOL review</comment>
+   <advertisement/>
+   <member_count>15</member_count>
+   <block_rooms_comma>  to be determined (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>375</aid>
+   <name>Sci Talk</name>
+   <description>Keep up with current events in all fields of technology and science - debates, discussions and other interactive activities</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1156</sid>
+     <fname>Jo Ann</fname>
+     <lname>Muir</lname>
+     <userid>32</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>846</rid>
+     <name>T  8 </name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>T  8 </block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>633</aid>
+   <name>Science Fiction &amp;amp; Fantasy Writers</name>
+   <description>Work on writing science fiction by using models and a general discussion of possible science topics.  This club will always involve some form of writing.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1000</sid>
+     <fname>Doug</fname>
+     <lname>Cullen</lname>
+     <userid>457</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>53</rid>
+     <name>250 (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>9</member_count>
+   <block_rooms_comma>250 (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>362</aid>
+   <name>Send-a-Smile</name>
+   <description>Raise awareness of cleft lip/palate and send supplies to support local hospitals</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1195</sid>
+     <fname>John</fname>
+     <lname>Laffey</lname>
+     <userid>53</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1841</rid>
+     <name>Weyanoke O (28)</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>Weyanoke O (28)</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>485</aid>
+   <name>Senior Survey Makeup</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1227</sid>
+     <fname>Eileen</fname>
+     <lname>Kropf</lname>
+     <userid>169</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1546</rid>
+     <name>Career Center 243 (40)</name>
+     <capacity>40</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>Career Center 243 (40)</block_rooms_comma>
+   <capacity>40</capacity>
+  </activity>
+  <activity>
+   <aid>281</aid>
+   <name>Shakespeare Troupe</name>
+   <description>Devoted to the appreciation and performance and interpretation of the works of William Shakespeare.  </description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>91</sid>
+     <fname>Vinny</fname>
+     <lname>Pollet</lname>
+     <userid>122</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1817</rid>
+     <name>Weyanoke H</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>Weyanoke H</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>37</aid>
+   <name>Soccer (Boys V)</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>428</sid>
+     <fname>Sean</fname>
+     <lname>Burke</lname>
+     <userid>37</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>144</rid>
+     <name>  Out of Building</name>
+     <capacity>130</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>4</member_count>
+   <block_rooms_comma>  Out of Building</block_rooms_comma>
+   <capacity>130</capacity>
+  </activity>
+  <activity>
+   <aid>356</aid>
+   <name>Spanish Honor Society</name>
+   <description>The purpose is to celebrate and experience Spanish culture and holidays.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>857</sid>
+     <fname>Nannette</fname>
+     <lname>Mateo</lname>
+     <userid>185</userid>
+    </sponsor>
+    <sponsor>
+     <sid>851</sid>
+     <fname>Peggy</fname>
+     <lname>Gendive</lname>
+     <userid>54</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1524</rid>
+     <name>T 14 </name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment>Officers</comment>
+   <advertisement/>
+   <member_count>6</member_count>
+   <block_rooms_comma>T 14 </block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>58</aid>
+   <name>Speech (Slifka)</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1238</sid>
+     <fname>Ashley</fname>
+     <lname>Slifka (Orgel)</lname>
+     <userid>904</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1921</rid>
+     <name>227 (3)</name>
+     <capacity>3</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>227 (3)</block_rooms_comma>
+   <capacity>3</capacity>
+  </activity>
+  <activity>
+   <aid>426</aid>
+   <name>Study Hall  (Brown) Quiet</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>865</sid>
+     <fname>Anna</fname>
+     <lname>Brown</lname>
+     <userid>146</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1730</rid>
+     <name>T 33</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>6</member_count>
+   <block_rooms_comma>T 33</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>948</aid>
+   <name>Study Hall (Field)</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1224</sid>
+     <fname>Brian</fname>
+     <lname>Field</lname>
+     <userid>38</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1830</rid>
+     <name>Weyanoke L</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1</member_count>
+   <block_rooms_comma>Weyanoke L</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>98</aid>
+   <name>Study Hall (Gilbert)</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1153</sid>
+     <fname>Maria</fname>
+     <lname>Gilbert</lname>
+     <userid>21</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1815</rid>
+     <name>Weyanoke E</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>10</member_count>
+   <block_rooms_comma>Weyanoke E</block_rooms_comma>
+   <capacity>25</capacity>
+  </activity>
+  <activity>
+   <aid>931</aid>
+   <name>Study Hall  (Locklear) Quiet</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1197</sid>
+     <fname>Laura</fname>
+     <lname>Locklear</lname>
+     <userid>85</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>735</rid>
+     <name>123</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>123</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>656</aid>
+   <name>Study Hall (Xu) (QUIET)</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>492</sid>
+     <fname>Maggie</fname>
+     <lname>Xu</lname>
+     <userid>392</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1897</rid>
+     <name>T 43</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>4</member_count>
+   <block_rooms_comma>T 43</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>925</aid>
+   <name>Sys Op. Administrators</name>
+   <description>No description available</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1123</sid>
+     <fname>Andrew</fname>
+     <lname>Hamilton</lname>
+     <userid>489</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2023</rid>
+     <name>200c Sys Lab (15)</name>
+     <capacity>15</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>5</member_count>
+   <block_rooms_comma>200c Sys Lab (15)</block_rooms_comma>
+   <capacity>15</capacity>
+  </activity>
+  <activity>
+   <aid>296</aid>
+   <name>TJ Media</name>
+   <description>Print and online versions of TJToday and the yearbook</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1063</sid>
+     <fname>Erinn</fname>
+     <lname>Harris</lname>
+     <userid>2</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>748</rid>
+     <name>T  4</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>T  4</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>757</aid>
+   <name>TSA - Technology Student Association</name>
+   <description>This club helps students work on technological projects throughout the year and enters them in a national competition.</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1203</sid>
+     <fname>Mike</fname>
+     <lname>Piccione</lname>
+     <userid>83</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1223</rid>
+     <name>150 (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment>National Prep</comment>
+   <advertisement/>
+   <member_count>10</member_count>
+   <block_rooms_comma>150 (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>271</aid>
+   <name>Teknos</name>
+   <description>TJs science, mathematics, &amp;amp; technology journal. Entries in the journal are selected from student research papers, essays, inventions, computer graphics, &amp;amp; photos. Teknos is looking for additional students who have skills with computers &amp;amp;/or editing, &amp;amp; who would like to gain experience as publication editors, graphic artists, computer graphic designers, &amp;amp; scientific selection committee members,</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1027</sid>
+     <fname>John</fname>
+     <lname>Woodwell</lname>
+     <userid>376</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2012</rid>
+     <name>249 (20)</name>
+     <capacity>20</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>4</member_count>
+   <block_rooms_comma>249 (20)</block_rooms_comma>
+   <capacity>20</capacity>
+  </activity>
+  <activity>
+   <aid>990</aid>
+   <name>Threshold</name>
+   <description>Literary magazine </description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>310</sid>
+     <fname>Emily</fname>
+     <lname>Orser</lname>
+     <userid>113</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1888</rid>
+     <name>Weyanoke R</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>3</member_count>
+   <block_rooms_comma>Weyanoke R</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>891</aid>
+   <name>World History II SOL Review</name>
+   <description>See Mr. Sacks if you wish to attend</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>411</sid>
+     <fname>Aaron</fname>
+     <lname>Sacks</lname>
+     <userid>139</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1816</rid>
+     <name>Weyanoke F</name>
+     <capacity>28</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>23</member_count>
+   <block_rooms_comma>Weyanoke F</block_rooms_comma>
+   <capacity>28</capacity>
+  </activity>
+  <activity>
+   <aid>951</aid>
+   <name>World History SOL tutoring (YI students only)</name>
+   <description>Yi students only</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1201</sid>
+     <fname>Helen</fname>
+     <lname>Yi</lname>
+     <userid>65</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1915</rid>
+     <name>T 34 (40)</name>
+     <capacity>40</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>14</member_count>
+   <block_rooms_comma>T 34 (40)</block_rooms_comma>
+   <capacity>40</capacity>
+  </activity>
+  <activity>
+   <aid>628</aid>
+   <name>Writing Center</name>
+   <description>Come get one on one help from other students on any writing assignments.  </description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1146</sid>
+     <fname>Suzette</fname>
+     <lname>Henry</lname>
+     <userid>28</userid>
+    </sponsor>
+    <sponsor>
+     <sid>1154</sid>
+     <fname>Stephanie</fname>
+     <lname>Glotfelty</lname>
+     <userid>23</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1756</rid>
+     <name>T 35 (12)</name>
+     <capacity>12</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>T 35 (12)</block_rooms_comma>
+   <capacity>12</capacity>
+  </activity>
+  <activity>
+   <aid>226</aid>
+   <name>Writing Center tutors</name>
+   <description>requires departmental nomination</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1146</sid>
+     <fname>Suzette</fname>
+     <lname>Henry</lname>
+     <userid>28</userid>
+    </sponsor>
+    <sponsor>
+     <sid>1154</sid>
+     <fname>Stephanie</fname>
+     <lname>Glotfelty</lname>
+     <userid>23</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1756</rid>
+     <name>T 35 (12)</name>
+     <capacity>12</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>T 35 (12)</block_rooms_comma>
+   <capacity>12</capacity>
+  </activity>
+  <activity>
+   <aid>614</aid>
+   <name>Writing Conference (Orser)</name>
+   <description/>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>310</sid>
+     <fname>Emily</fname>
+     <lname>Orser</lname>
+     <userid>113</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2059</rid>
+     <name>Weyanoke R (2)</name>
+     <capacity>2</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>2</member_count>
+   <block_rooms_comma>Weyanoke R (2)</block_rooms_comma>
+   <capacity>2</capacity>
+  </activity>
+  <activity>
+   <aid>996</aid>
+   <name>Z - 8th PERIOD PASS Not Received or Accepted by Sponsor</name>
+   <description>Pass received from the 8th period office was not turned in or accepted by sponsor.</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1148</sid>
+     <fname>Joan</fname>
+     <lname>Burch</lname>
+     <userid>20</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1051</rid>
+     <name>   8th Office (room 231)</name>
+     <capacity>0</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>   8th Office (room 231)</block_rooms_comma>
+   <capacity>0</capacity>
+  </activity>
+  <activity>
+   <aid>998</aid>
+   <name>Z- EXCUSED ABSENCE</name>
+   <description>No description available</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1139</sid>
+     <fname/>
+     <lname>8th Period Staff</lname>
+     <userid>0</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1051</rid>
+     <name>   8th Office (room 231)</name>
+     <capacity>0</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>   8th Office (room 231)</block_rooms_comma>
+   <capacity>0</capacity>
+  </activity>
+  <activity>
+   <aid>999</aid>
+   <name>Z-HAS NOT SELECTED AN ACTIVITY</name>
+   <description>No description available</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors/>
+   <block_rooms/>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>1168</member_count>
+   <block_rooms_comma/>
+   <capacity>-1</capacity>
+  </activity>
+  <activity>
+   <aid>955</aid>
+   <name>Z - Withdrawn from TJ</name>
+   <description>No description available</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>1139</sid>
+     <fname/>
+     <lname>8th Period Staff</lname>
+     <userid>0</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1051</rid>
+     <name>   8th Office (room 231)</name>
+     <capacity>0</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>14</member_count>
+   <block_rooms_comma>   8th Office (room 231)</block_rooms_comma>
+   <capacity>0</capacity>
+  </activity>
+  <activity>
+   <aid>764</aid>
+   <name>tjSTAR </name>
+   <description>Research Symposium Committee</description>
+   <restricted>0</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>861</sid>
+     <fname>Koji</fname>
+     <lname>Otani</lname>
+     <userid>114</userid>
+    </sponsor>
+    <sponsor>
+     <sid>1221</sid>
+     <fname>Pam</fname>
+     <lname>Cooper</lname>
+     <userid>908</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2024</rid>
+     <name>241 (20)</name>
+     <capacity>20</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>4</member_count>
+   <block_rooms_comma>241 (20)</block_rooms_comma>
+   <capacity>20</capacity>
+  </activity>
+  <activity>
+   <aid>984</aid>
+   <name>z - Administrative Study Hall</name>
+   <description>For those who forgot to sign up by 12:30 pm</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>4</sid>
+     <fname/>
+     <lname> To Be Assigned</lname>
+     <userid>7004</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1805</rid>
+     <name>  to be determined (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>  to be determined (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>947</aid>
+   <name>z - Administrative Study Hall 2</name>
+   <description>For those who forgot to sign up by 12:30 pm</description>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>1</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>4</sid>
+     <fname/>
+     <lname> To Be Assigned</lname>
+     <userid>7004</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>1805</rid>
+     <name>  to be determined (30)</name>
+     <capacity>30</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>  to be determined (30)</block_rooms_comma>
+   <capacity>30</capacity>
+  </activity>
+  <activity>
+   <aid>66</aid>
+   <name>z-Early Release Waiver</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors/>
+   <block_rooms>
+    <room>
+     <rid>144</rid>
+     <name>  Out of Building</name>
+     <capacity>130</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>11</member_count>
+   <block_rooms_comma>  Out of Building</block_rooms_comma>
+   <capacity>130</capacity>
+  </activity>
+  <activity>
+   <aid>974</aid>
+   <name>z - for room use only</name>
+   <description/>
+   <restricted>1</restricted>
+   <presign>0</presign>
+   <oneaday>0</oneaday>
+   <bothblocks>0</bothblocks>
+   <sticky>0</sticky>
+   <special>0</special>
+   <calendar>0</calendar>
+   <bid>2977</bid>
+   <block_sponsors>
+    <sponsor>
+     <sid>350</sid>
+     <fname>Brandon</fname>
+     <lname>Kosatka</lname>
+     <userid>152</userid>
+    </sponsor>
+    <sponsor>
+     <sid>867</sid>
+     <fname>Adam</fname>
+     <lname>Wong</lname>
+     <userid>406</userid>
+    </sponsor>
+   </block_sponsors>
+   <block_rooms>
+    <room>
+     <rid>2060</rid>
+     <name>211 (Lab)</name>
+     <capacity>25</capacity>
+    </room>
+    <room>
+     <rid>2030</rid>
+     <name>Black Box Theatre</name>
+     <capacity>25</capacity>
+    </room>
+   </block_rooms>
+   <attendancetaken>0</attendancetaken>
+   <cancelled>0</cancelled>
+   <roomchanged>0</roomchanged>
+   <comment/>
+   <advertisement/>
+   <member_count>0</member_count>
+   <block_rooms_comma>211 (Lab),Black Box Theatre</block_rooms_comma>
+   <capacity>50</capacity>
+  </activity>
+ </activities>
+ <error/>
+ <debug/>
+</eighth>
