@@ -1,0 +1,49 @@
+import java.util.ArrayList;
+
+/**
+ * Created by Akshay on 5/16/2015.
+ */
+public class Club {
+    private String name;
+    private String room;
+    private ArrayList<Block> schedule;
+
+    public Club(String name, String room){
+        this.name = name;
+        this.room = room;
+        schedule = new ArrayList<Block>();
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getRoom() {
+        return room;
+    }
+
+    public void setRoom(String room) {
+        this.room = room;
+    }
+
+    public ArrayList<Block> getSchedule() {
+        return schedule;
+    }
+
+    @Override
+    public String toString() {
+        String r = name + ":";
+        r+= " Room" + room + ";";
+        r+= " " + '\n' ;
+        for(Block b: schedule){
+            r+= b.toString() + " ";
+        }
+
+        return r;
+
+    }
+}
