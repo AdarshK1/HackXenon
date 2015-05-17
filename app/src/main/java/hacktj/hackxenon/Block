@@ -1,0 +1,67 @@
+import java.util.Comparator;
+import java.util.Date;
+
+/**
+ * Created by Akshay on 5/16/2015.
+ */
+public class Block implements Comparable<Block>{
+    private String type; // A or B
+    private String dayOfWeek;
+    private Date date; // in the form "month" date
+
+    public Block(String stype, String sday, Date sdate){
+        type = stype;
+        dayOfWeek = sday;
+        date = sdate;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public String getDayOfWeek() {
+        return dayOfWeek;
+    }
+
+    public void setDayOfWeek(String dayOfWeek) {
+        this.dayOfWeek = dayOfWeek;
+    }
+
+    public Date getDate() {
+        return date;
+    }
+
+    public void setDate(Date date) {
+        this.date = date;
+    }
+
+    public String toString() {
+        return dayOfWeek + " "+ type + " (" + date.toString() + ")";
+    }
+
+    @Override
+    public int compareTo(Block o) {
+        if(date.compareTo(o.getDate()) < 0){
+            return -1;
+        }
+        else if(date.compareTo(o.getDate())>0){
+            return 1;
+        }
+        else{
+            if(type.compareTo(o.getType())<0){
+                return -1;
+            }
+            else if(type.compareTo(o.getType())>0){
+                return 1;
+            }
+            else{
+                return 0;
+            }
+        }
+    }
+}
+
