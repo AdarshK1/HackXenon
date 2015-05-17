@@ -1,0 +1,23 @@
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * Created by Akshay on 5/16/2015.
+ */
+public class AlertHandler {
+    private List<String> alerts;
+
+    public AlertHandler(){
+        alerts = new ArrayList<String>();
+    }
+
+    public void addAlert(String message){
+        alerts.add(message);
+    }
+
+    public String popAlert(){
+        String r = alerts.get(0);
+        alerts.remove(0);
+        return r;
+    }
+}
